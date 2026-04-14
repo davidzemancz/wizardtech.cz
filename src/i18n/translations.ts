@@ -12,7 +12,7 @@ export const translations = {
       headline: 'Umělá inteligence',
       headlineSub: 'pro veřejnou dopravu.',
       description:
-        'Pomáháme dopravním firmám zavést umělou inteligenci tam, kde to má smysl — od optimalizace tras až po prediktivní údržbu.',
+        'Propojujeme optimalizační algoritmy a AI agenty s provozem dopravních firem — od plánování jízdních řádů po automatizaci procesů.',
       cta: 'Domluvit konzultaci',
     },
     problems: {
@@ -149,7 +149,7 @@ export const translations = {
       headline: 'Artificial intelligence',
       headlineSub: 'for public transportation.',
       description:
-        'We help transportation companies implement AI where it matters — from route optimization to predictive maintenance.',
+        'We connect optimization algorithms and AI agents with transportation operations — from timetable planning to process automation.',
       cta: 'Book a consultation',
     },
     problems: {
