@@ -263,6 +263,7 @@ export const translations = {
       description: "We'd love to discuss how AI can help your company. The consultation is free and non-binding.",
       info: {
         companyName: 'WizardTech s.r.o.',
+        addressLabel: 'Location',
         address: 'Prague',
         ico: 'ID: 21276722',
         emailLabel: 'Email',
