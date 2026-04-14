@@ -125,6 +125,7 @@ export const translations = {
       description: 'Rádi s vámi probereme, jak AI může pomoct právě vaší firmě. Konzultace je nezávazná a zdarma.',
       info: {
         companyName: 'WizardTech s.r.o.',
+        addressLabel: 'Místo',
         address: 'Praha',
         ico: 'IČO: 21276722',
         emailLabel: 'E-mail',

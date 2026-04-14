@@ -39,6 +39,7 @@ export function Contact() {
                 <MapPin className="w-5 h-5 text-primary" />
               </div>
               <div>
+                <div className="text-sm font-medium text-slate mb-1">{t.contact.info.addressLabel}</div>
                 <div className="text-dark font-semibold">{t.contact.info.address}</div>
               </div>
             </div>
